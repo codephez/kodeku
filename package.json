@@ -1,0 +1,22 @@
+{
+  "name": "kodeku",
+  "version": "1.0.0",
+  "description": "kodeku for config framework library with cli nodejs",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codephez/kodeku.git"
+  },
+  "keywords": [
+    "kodeku",
+    "cli",
+    "nodejs",
+    "config"
+  ],
+  "author": "aseptian abdurohman (aseptian@nirtara.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codephez/kodeku/issues"
+  },
+  "homepage": "https://github.com/codephez/kodeku#readme"
+}
